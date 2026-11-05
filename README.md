@@ -1,5 +1,5 @@
 🎨 **QR Code Component**
- Desenvolvido para exibir um QR Code de acessopara portfólio, utilizando HTML5 e CSS3
+ Desenvolvido para exibir um QR Code de acesso para portfólio, utilizando HTML5 e CSS3
 
 🚀 **Demo / Projeto Online**
 👉 [Acessar a Aplicação](https://andreialemker.github.io/qr-code-component/)
